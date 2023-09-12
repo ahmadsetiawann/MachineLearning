@@ -1,0 +1,8 @@
+kaggle
+matplotlib.pyplot
+pandas
+seaborn
+keras
+tensorflow
+h5py
+opencv
